@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-08 16:01:02 IST
+Last updated: 2026-06-08 16:15:48 IST
 
 ## LALPATHLAB_NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-06-08 16:01:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>970.0999755859375</td><td>2275</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>968.2000122070312</td><td>4121</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>965.7000122070312</td><td>3061</td></tr>
 </table>
 
 ## NEULANDLAB_NS
@@ -62,8 +62,8 @@ Last updated: 2026-06-08 16:01:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>667.2000122070312</td><td>53416</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>656.4000244140625</td><td>44292</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>653.4000244140625</td><td>311881</td></tr>
 </table>
 
 ## GLAND_NS
@@ -158,7 +158,7 @@ Last updated: 2026-06-08 16:01:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>7750.0</td><td>1438</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>7699.0</td><td>463</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>7720.0</td><td>1677</td></tr>
 </table>
 
