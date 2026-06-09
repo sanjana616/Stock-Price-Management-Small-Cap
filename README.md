@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-09 15:45:50 IST
+Last updated: 2026-06-09 16:01:05 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-09 15:29:00</td><td>1575.800048828125</td><td>123</td></tr>
   <tr><td>2026-06-09 15:28:00</td><td>1565.4000244140625</td><td>3432</td></tr>
-  <tr><td>2026-06-09 15:27:00</td><td>1570.0999755859375</td><td>2804</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -22,8 +22,8 @@ Last updated: 2026-06-09 15:45:50 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-09 15:29:00</td><td>105.83000183105469</td><td>192044</td></tr>
   <tr><td>2026-06-09 15:28:00</td><td>106.12000274658203</td><td>86032</td></tr>
-  <tr><td>2026-06-09 15:27:00</td><td>106.30000305175781</td><td>317827</td></tr>
 </table>
 
 ## PNBHOUSING_NS
@@ -94,8 +94,8 @@ Last updated: 2026-06-09 15:45:50 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-09 15:29:00</td><td>1502.199951171875</td><td>1499</td></tr>
   <tr><td>2026-06-09 15:28:00</td><td>1508.0</td><td>3080</td></tr>
-  <tr><td>2026-06-09 15:27:00</td><td>1507.0</td><td>2396</td></tr>
 </table>
 
 ## POONAWALLA_NS
