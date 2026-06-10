@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-10 15:45:51 IST
+Last updated: 2026-06-10 16:01:05 IST
 
 ## LALPATHLAB_NS
 
@@ -86,16 +86,16 @@ Last updated: 2026-06-10 15:45:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-10 15:29:00</td><td>1431.300048828125</td><td>1068</td></tr>
   <tr><td>2026-06-10 15:28:00</td><td>1431.0</td><td>416</td></tr>
-  <tr><td>2026-06-10 15:27:00</td><td>1431.0</td><td>792</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-10 15:29:00</td><td>1462.0999755859375</td><td>840</td></tr>
   <tr><td>2026-06-10 15:28:00</td><td>1458.0999755859375</td><td>885</td></tr>
-  <tr><td>2026-06-10 15:27:00</td><td>1462.0</td><td>350</td></tr>
 </table>
 
 ## POONAWALLA_NS
