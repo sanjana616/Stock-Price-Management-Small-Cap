@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-10 16:01:05 IST
+Last updated: 2026-06-10 16:15:55 IST
 
 ## LALPATHLAB_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-06-10 16:01:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-10 15:29:00</td><td>16946.0</td><td>116</td></tr>
   <tr><td>2026-06-10 15:28:00</td><td>16937.0</td><td>141</td></tr>
-  <tr><td>2026-06-10 15:27:00</td><td>16927.0</td><td>169</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -110,16 +110,16 @@ Last updated: 2026-06-10 16:01:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-10 15:29:00</td><td>329.8500061035156</td><td>26173</td></tr>
   <tr><td>2026-06-10 15:28:00</td><td>330.0</td><td>13340</td></tr>
-  <tr><td>2026-06-10 15:27:00</td><td>329.95001220703125</td><td>10462</td></tr>
 </table>
 
 ## CROMPTON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-10 15:29:00</td><td>254.64999389648438</td><td>9426</td></tr>
   <tr><td>2026-06-10 15:28:00</td><td>255.0500030517578</td><td>13725</td></tr>
-  <tr><td>2026-06-10 15:27:00</td><td>255.0</td><td>14002</td></tr>
 </table>
 
 ## ASTERDM_NS
@@ -158,7 +158,7 @@ Last updated: 2026-06-10 16:01:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-10 15:29:00</td><td>7625.0</td><td>791</td></tr>
   <tr><td>2026-06-10 15:28:00</td><td>7645.0</td><td>1709</td></tr>
-  <tr><td>2026-06-10 15:27:00</td><td>7633.0</td><td>1164</td></tr>
 </table>
 
