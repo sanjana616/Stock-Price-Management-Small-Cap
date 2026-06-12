@@ -1,164 +1,164 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-12 11:45:52 IST
+Last updated: 2026-06-12 12:01:04 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>1593.0</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>1592.800048828125</td><td>137</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>1592.5</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>1593.0</td><td>272</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>2006.0999755859375</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>2006.699951171875</td><td>974</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>2001.0</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>2001.0</td><td>3563</td></tr>
 </table>
 
 ## NBCC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>103.66000366210938</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>103.70999908447266</td><td>11721</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>103.6500015258789</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>103.6500015258789</td><td>2662</td></tr>
 </table>
 
 ## PNBHOUSING_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>979.7999877929688</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>980.0</td><td>1135</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>979.2000122070312</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>979.4000244140625</td><td>671</td></tr>
 </table>
 
 ## NEULANDLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>17144.0</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>17170.0</td><td>22</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>17092.0</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>17107.0</td><td>5</td></tr>
 </table>
 
 ## KAYNES_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>3061.0</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>3062.199951171875</td><td>253</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>3046.89990234375</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>3051.300048828125</td><td>137</td></tr>
 </table>
 
 ## SAILIFE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>1222.9000244140625</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>1223.0999755859375</td><td>891</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>1219.199951171875</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>1219.0999755859375</td><td>187</td></tr>
 </table>
 
 ## HSCL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>683.7000122070312</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>683.25</td><td>12250</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>679.6500244140625</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>679.6500244140625</td><td>10940</td></tr>
 </table>
 
 ## GLAND_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>2284.300048828125</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>2285.89990234375</td><td>1286</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>2283.800048828125</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>2286.800048828125</td><td>754</td></tr>
 </table>
 
 ## NATCOPHARM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>855.5</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>855.4000244140625</td><td>40</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>857.0999755859375</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>857.0</td><td>319</td></tr>
 </table>
 
 ## CHOLAHLDNG_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>1478.699951171875</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>1478.800048828125</td><td>98</td></tr>
+  <tr><td>2026-06-12 12:01:00</td><td>1493.9000244140625</td><td>0</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>1493.0999755859375</td><td>2481</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>1430.0</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>1430.300048828125</td><td>809</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>1423.199951171875</td><td>16</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>1422.0999755859375</td><td>399</td></tr>
 </table>
 
 ## POONAWALLA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>385.04998779296875</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>385.04998779296875</td><td>1651</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>385.04998779296875</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>385.20001220703125</td><td>3672</td></tr>
 </table>
 
 ## ANGELONE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>330.3999938964844</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>330.3500061035156</td><td>2167</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>330.45001220703125</td><td>5839</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>330.29998779296875</td><td>4799</td></tr>
 </table>
 
 ## CROMPTON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>254.0</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>253.8000030517578</td><td>937</td></tr>
+  <tr><td>2026-06-12 12:01:00</td><td>254.4499969482422</td><td>0</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>254.35000610351562</td><td>1470</td></tr>
 </table>
 
 ## ASTERDM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>828.25</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>827.5499877929688</td><td>10831</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>820.1500244140625</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>824.9000244140625</td><td>4010</td></tr>
 </table>
 
 ## COHANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>424.70001220703125</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>424.3500061035156</td><td>3948</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>424.1000061035156</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>423.54998779296875</td><td>276</td></tr>
 </table>
 
 ## TATATECH_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>748.6500244140625</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>748.2000122070312</td><td>1684</td></tr>
+  <tr><td>2026-06-12 12:01:00</td><td>750.4000244140625</td><td>0</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>750.2999877929688</td><td>2113</td></tr>
 </table>
 
 ## SONACOMS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>588.6500244140625</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>588.7000122070312</td><td>12</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>588.5499877929688</td><td>0</td></tr>
+  <tr><td>2026-06-12 11:59:00</td><td>588.4500122070312</td><td>179</td></tr>
 </table>
 
 ## AMBER_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-12 11:45:00</td><td>7298.0</td><td>0</td></tr>
-  <tr><td>2026-06-12 11:44:00</td><td>7296.5</td><td>1455</td></tr>
+  <tr><td>2026-06-12 12:01:00</td><td>7296.0</td><td>0</td></tr>
+  <tr><td>2026-06-12 12:00:00</td><td>7295.5</td><td>1669</td></tr>
 </table>
 
