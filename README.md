@@ -1,21 +1,21 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-12 15:45:49 IST
+Last updated: 2026-06-12 16:01:06 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1601.5</td><td>952</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1601.0999755859375</td><td>3739</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1601.199951171875</td><td>584</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>2017.199951171875</td><td>801</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>2017.5999755859375</td><td>1963</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>2015.5999755859375</td><td>2561</td></tr>
 </table>
 
 ## NBCC_NS
@@ -86,8 +86,8 @@ Last updated: 2026-06-12 15:45:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1524.199951171875</td><td>677</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1537.0</td><td>708</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1535.0999755859375</td><td>8788</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -102,8 +102,8 @@ Last updated: 2026-06-12 15:45:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>391.8999938964844</td><td>9114</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>392.0</td><td>31414</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>392.0</td><td>23917</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -126,8 +126,8 @@ Last updated: 2026-06-12 15:45:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>814.9500122070312</td><td>6263</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>820.3499755859375</td><td>4280</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>814.7000122070312</td><td>6928</td></tr>
 </table>
 
 ## COHANCE_NS
@@ -150,8 +150,8 @@ Last updated: 2026-06-12 15:45:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>593.0499877929688</td><td>9409</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>593.4000244140625</td><td>10327</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>592.1500244140625</td><td>20334</td></tr>
 </table>
 
 ## AMBER_NS
