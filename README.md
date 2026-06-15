@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-15 15:45:56 IST
+Last updated: 2026-06-15 16:01:17 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>1616.0</td><td>667</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>1621.0999755859375</td><td>2282</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>1624.699951171875</td><td>3835</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -22,8 +22,8 @@ Last updated: 2026-06-15 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>107.36000061035156</td><td>145517</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>107.31999969482422</td><td>117229</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>107.36000061035156</td><td>121180</td></tr>
 </table>
 
 ## PNBHOUSING_NS
@@ -54,8 +54,8 @@ Last updated: 2026-06-15 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>1207.9000244140625</td><td>621</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>1205.0999755859375</td><td>3360</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>1204.4000244140625</td><td>601</td></tr>
 </table>
 
 ## HSCL_NS
@@ -134,8 +134,8 @@ Last updated: 2026-06-15 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>427.0</td><td>1267</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>425.75</td><td>9267</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>425.6000061035156</td><td>2660</td></tr>
 </table>
 
 ## TATATECH_NS
@@ -158,7 +158,7 @@ Last updated: 2026-06-15 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>7620.0</td><td>1138</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>7630.0</td><td>1427</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>7620.0</td><td>666</td></tr>
 </table>
 
