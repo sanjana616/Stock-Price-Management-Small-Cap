@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-16 15:46:10 IST
+Last updated: 2026-06-16 16:01:21 IST
 
 ## LALPATHLAB_NS
 
@@ -86,8 +86,8 @@ Last updated: 2026-06-16 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>1581.699951171875</td><td>450</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>1580.0999755859375</td><td>1595</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>1580.0</td><td>679</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -134,8 +134,8 @@ Last updated: 2026-06-16 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>432.3999938964844</td><td>4134</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>432.6000061035156</td><td>2504</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>432.6499938964844</td><td>796</td></tr>
 </table>
 
 ## TATATECH_NS
