@@ -40612,3 +40612,45 @@
 2026-06-17 13:16:03,954 - INFO - [AMBER_NS] Inserted 375 rows (duplicates ignored)
 2026-06-17 13:16:03,954 - INFO - Inserted 375 rows for AMBER.NS
 2026-06-17 13:16:03,970 - INFO - Cycle complete. README updated.
+2026-06-17 13:31:12,181 - INFO - Starting data fetch cycle...
+2026-06-17 13:31:12,458 - INFO - [LALPATHLAB_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:12,459 - INFO - Inserted 375 rows for LALPATHLAB.NS
+2026-06-17 13:31:12,617 - INFO - [PIRAMALFIN_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:12,618 - INFO - Inserted 375 rows for PIRAMALFIN.NS
+2026-06-17 13:31:12,753 - INFO - [NBCC_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:12,754 - INFO - Inserted 375 rows for NBCC.NS
+2026-06-17 13:31:12,939 - INFO - [PNBHOUSING_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:12,939 - INFO - Inserted 375 rows for PNBHOUSING.NS
+2026-06-17 13:31:13,075 - INFO - [NEULANDLAB_NS] Inserted 331 rows (duplicates ignored)
+2026-06-17 13:31:13,075 - INFO - Inserted 331 rows for NEULANDLAB.NS
+2026-06-17 13:31:13,208 - INFO - [KAYNES_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:13,208 - INFO - Inserted 375 rows for KAYNES.NS
+2026-06-17 13:31:13,345 - INFO - [SAILIFE_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:13,345 - INFO - Inserted 375 rows for SAILIFE.NS
+2026-06-17 13:31:13,584 - INFO - [HSCL_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:13,584 - INFO - Inserted 375 rows for HSCL.NS
+2026-06-17 13:31:13,711 - INFO - [GLAND_NS] Inserted 368 rows (duplicates ignored)
+2026-06-17 13:31:13,711 - INFO - Inserted 368 rows for GLAND.NS
+2026-06-17 13:31:13,880 - INFO - [NATCOPHARM_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:13,880 - INFO - Inserted 375 rows for NATCOPHARM.NS
+2026-06-17 13:31:14,075 - INFO - [CHOLAHLDNG_NS] Inserted 358 rows (duplicates ignored)
+2026-06-17 13:31:14,075 - INFO - Inserted 358 rows for CHOLAHLDNG.NS
+2026-06-17 13:31:14,198 - INFO - [AFFLE_NS] Inserted 372 rows (duplicates ignored)
+2026-06-17 13:31:14,198 - INFO - Inserted 372 rows for AFFLE.NS
+2026-06-17 13:31:14,419 - INFO - [POONAWALLA_NS] Inserted 372 rows (duplicates ignored)
+2026-06-17 13:31:14,420 - INFO - Inserted 372 rows for POONAWALLA.NS
+2026-06-17 13:31:14,686 - INFO - [ANGELONE_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:14,686 - INFO - Inserted 375 rows for ANGELONE.NS
+2026-06-17 13:31:14,821 - INFO - [CROMPTON_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:14,821 - INFO - Inserted 375 rows for CROMPTON.NS
+2026-06-17 13:31:14,961 - INFO - [ASTERDM_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:14,961 - INFO - Inserted 375 rows for ASTERDM.NS
+2026-06-17 13:31:15,128 - INFO - [COHANCE_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:15,128 - INFO - Inserted 375 rows for COHANCE.NS
+2026-06-17 13:31:15,304 - INFO - [TATATECH_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:15,304 - INFO - Inserted 375 rows for TATATECH.NS
+2026-06-17 13:31:15,458 - INFO - [SONACOMS_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:15,458 - INFO - Inserted 375 rows for SONACOMS.NS
+2026-06-17 13:31:15,814 - INFO - [AMBER_NS] Inserted 375 rows (duplicates ignored)
+2026-06-17 13:31:15,814 - INFO - Inserted 375 rows for AMBER.NS
+2026-06-17 13:31:15,826 - INFO - Cycle complete. README updated.
