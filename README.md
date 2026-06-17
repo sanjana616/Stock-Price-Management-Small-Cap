@@ -1,21 +1,21 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-17 15:45:56 IST
+Last updated: 2026-06-17 16:01:17 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-17 15:29:00</td><td>1651.800048828125</td><td>1145</td></tr>
   <tr><td>2026-06-17 15:28:00</td><td>1649.0</td><td>1405</td></tr>
-  <tr><td>2026-06-17 15:27:00</td><td>1651.5</td><td>1016</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-17 15:29:00</td><td>2013.199951171875</td><td>1712</td></tr>
   <tr><td>2026-06-17 15:28:00</td><td>2018.0</td><td>6784</td></tr>
-  <tr><td>2026-06-17 15:27:00</td><td>2013.5999755859375</td><td>2458</td></tr>
 </table>
 
 ## NBCC_NS
@@ -86,16 +86,16 @@ Last updated: 2026-06-17 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-17 15:29:00</td><td>1583.9000244140625</td><td>3252</td></tr>
   <tr><td>2026-06-17 15:28:00</td><td>1590.9000244140625</td><td>552</td></tr>
-  <tr><td>2026-06-17 15:27:00</td><td>1590.0</td><td>1928</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-17 15:29:00</td><td>1480.5</td><td>746</td></tr>
   <tr><td>2026-06-17 15:28:00</td><td>1474.199951171875</td><td>1936</td></tr>
-  <tr><td>2026-06-17 15:27:00</td><td>1478.800048828125</td><td>615</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -134,8 +134,8 @@ Last updated: 2026-06-17 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-17 15:29:00</td><td>425.1499938964844</td><td>3675</td></tr>
   <tr><td>2026-06-17 15:28:00</td><td>425.45001220703125</td><td>4419</td></tr>
-  <tr><td>2026-06-17 15:27:00</td><td>425.8500061035156</td><td>6021</td></tr>
 </table>
 
 ## TATATECH_NS
