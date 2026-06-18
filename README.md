@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-18 16:01:11 IST
+Last updated: 2026-06-18 16:15:55 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-06-18 16:01:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>1998.4000244140625</td><td>436</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>1994.0</td><td>3007</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>2004.800048828125</td><td>758</td></tr>
 </table>
 
 ## NBCC_NS
@@ -30,16 +30,16 @@ Last updated: 2026-06-18 16:01:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>1003.9000244140625</td><td>1672</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>1004.0999755859375</td><td>5175</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>1003.7999877929688</td><td>934</td></tr>
 </table>
 
 ## NEULANDLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>17220.0</td><td>123</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>17227.0</td><td>93</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>17218.0</td><td>169</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-18 16:01:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>352.79998779296875</td><td>42754</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>353.54998779296875</td><td>39256</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>353.6499938964844</td><td>41863</td></tr>
 </table>
 
 ## CROMPTON_NS
