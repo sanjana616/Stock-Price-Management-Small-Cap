@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-18 15:45:57 IST
+Last updated: 2026-06-18 16:01:11 IST
 
 ## LALPATHLAB_NS
 
@@ -86,8 +86,8 @@ Last updated: 2026-06-18 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>1589.300048828125</td><td>53</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>1585.0</td><td>359</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>1585.5</td><td>487</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -102,8 +102,8 @@ Last updated: 2026-06-18 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>404.5</td><td>3304</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>404.0</td><td>10751</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>404.3999938964844</td><td>3810</td></tr>
 </table>
 
 ## ANGELONE_NS
