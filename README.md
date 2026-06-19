@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-19 15:45:58 IST
+Last updated: 2026-06-19 16:01:18 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-06-19 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>2153.10009765625</td><td>1595</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>2156.300048828125</td><td>4804</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>2150.0</td><td>6902</td></tr>
 </table>
 
 ## NBCC_NS
@@ -86,8 +86,8 @@ Last updated: 2026-06-19 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>1583.9000244140625</td><td>2294</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>1577.699951171875</td><td>6685</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>1581.4000244140625</td><td>8042</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -118,16 +118,16 @@ Last updated: 2026-06-19 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>275.25</td><td>0</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>276.0</td><td>31617</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>275.45001220703125</td><td>13175</td></tr>
 </table>
 
 ## ASTERDM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>809.4000244140625</td><td>13305</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>815.0499877929688</td><td>10005</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>814.9500122070312</td><td>12150</td></tr>
 </table>
 
 ## COHANCE_NS
