@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-19 16:01:18 IST
+Last updated: 2026-06-19 16:15:57 IST
 
 ## LALPATHLAB_NS
 
@@ -30,16 +30,16 @@ Last updated: 2026-06-19 16:01:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>1003.0</td><td>1239</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>1003.5999755859375</td><td>1253</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>1003.2999877929688</td><td>1091</td></tr>
 </table>
 
 ## NEULANDLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>17345.0</td><td>232</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>17290.0</td><td>358</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>17343.0</td><td>238</td></tr>
 </table>
 
 ## KAYNES_NS
