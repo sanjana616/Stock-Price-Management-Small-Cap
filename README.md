@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-22 15:46:03 IST
+Last updated: 2026-06-22 16:01:17 IST
 
 ## LALPATHLAB_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-06-22 15:46:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-22 15:29:00</td><td>17224.0</td><td>38</td></tr>
   <tr><td>2026-06-22 15:28:00</td><td>17177.0</td><td>126</td></tr>
-  <tr><td>2026-06-22 15:27:00</td><td>17211.0</td><td>75</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -54,8 +54,8 @@ Last updated: 2026-06-22 15:46:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-22 15:29:00</td><td>1201.9000244140625</td><td>1564</td></tr>
   <tr><td>2026-06-22 15:28:00</td><td>1203.800048828125</td><td>1839</td></tr>
-  <tr><td>2026-06-22 15:27:00</td><td>1203.300048828125</td><td>1837</td></tr>
 </table>
 
 ## HSCL_NS
@@ -94,8 +94,8 @@ Last updated: 2026-06-22 15:46:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-22 15:29:00</td><td>1480.4000244140625</td><td>425</td></tr>
   <tr><td>2026-06-22 15:28:00</td><td>1477.0</td><td>1759</td></tr>
-  <tr><td>2026-06-22 15:27:00</td><td>1478.699951171875</td><td>644</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -126,8 +126,8 @@ Last updated: 2026-06-22 15:46:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-22 15:29:00</td><td>789.8499755859375</td><td>4418</td></tr>
   <tr><td>2026-06-22 15:28:00</td><td>789.0</td><td>4479</td></tr>
-  <tr><td>2026-06-22 15:27:00</td><td>789.1500244140625</td><td>4176</td></tr>
 </table>
 
 ## COHANCE_NS
