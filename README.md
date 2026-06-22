@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-22 16:01:17 IST
+Last updated: 2026-06-22 16:16:03 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-06-22 16:01:17 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-22 15:29:00</td><td>2085.5</td><td>5684</td></tr>
   <tr><td>2026-06-22 15:28:00</td><td>2083.0</td><td>4069</td></tr>
-  <tr><td>2026-06-22 15:27:00</td><td>2091.39990234375</td><td>1475</td></tr>
 </table>
 
 ## NBCC_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-22 16:01:17 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-22 15:29:00</td><td>354.79998779296875</td><td>19522</td></tr>
   <tr><td>2026-06-22 15:28:00</td><td>354.45001220703125</td><td>21708</td></tr>
-  <tr><td>2026-06-22 15:27:00</td><td>355.0</td><td>85323</td></tr>
 </table>
 
 ## CROMPTON_NS
