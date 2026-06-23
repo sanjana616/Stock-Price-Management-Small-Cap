@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-23 15:45:59 IST
+Last updated: 2026-06-23 16:01:16 IST
 
 ## LALPATHLAB_NS
 
@@ -62,8 +62,8 @@ Last updated: 2026-06-23 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>639.25</td><td>127429</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>636.2999877929688</td><td>298549</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>637.9000244140625</td><td>54281</td></tr>
 </table>
 
 ## GLAND_NS
@@ -94,8 +94,8 @@ Last updated: 2026-06-23 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>1465.699951171875</td><td>795</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>1467.9000244140625</td><td>1426</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>1465.9000244140625</td><td>369</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -118,8 +118,8 @@ Last updated: 2026-06-23 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>272.45001220703125</td><td>12463</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>272.1499938964844</td><td>25235</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>272.1499938964844</td><td>12796</td></tr>
 </table>
 
 ## ASTERDM_NS
@@ -150,8 +150,8 @@ Last updated: 2026-06-23 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>615.9500122070312</td><td>2862</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>615.9500122070312</td><td>3804</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>615.7999877929688</td><td>2420</td></tr>
 </table>
 
 ## AMBER_NS
