@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-23 16:01:16 IST
+Last updated: 2026-06-23 16:16:14 IST
 
 ## LALPATHLAB_NS
 
@@ -22,24 +22,24 @@ Last updated: 2026-06-23 16:01:16 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>109.04000091552734</td><td>58515</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>108.91000366210938</td><td>31370</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>108.87000274658203</td><td>42104</td></tr>
 </table>
 
 ## PNBHOUSING_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>1022.2999877929688</td><td>9167</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>1023.2999877929688</td><td>7015</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>1023.0999755859375</td><td>1731</td></tr>
 </table>
 
 ## NEULANDLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>18102.0</td><td>434</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>18158.0</td><td>503</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>18125.0</td><td>394</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -158,7 +158,7 @@ Last updated: 2026-06-23 16:01:16 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>7788.0</td><td>1326</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>7777.0</td><td>1507</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>7760.0</td><td>4596</td></tr>
 </table>
 
