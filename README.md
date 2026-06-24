@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-24 16:01:22 IST
+Last updated: 2026-06-24 16:03:08 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-06-24 16:01:22 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>2134.800048828125</td><td>826</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>2130.0</td><td>1132</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>2135.5</td><td>720</td></tr>
 </table>
 
 ## NBCC_NS
@@ -30,8 +30,8 @@ Last updated: 2026-06-24 16:01:22 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>1046.5</td><td>2421</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>1046.5</td><td>2546</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>1046.9000244140625</td><td>2731</td></tr>
 </table>
 
 ## NEULANDLAB_NS
@@ -150,15 +150,15 @@ Last updated: 2026-06-24 16:01:22 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>621.0999755859375</td><td>7579</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>620.0</td><td>2113</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>619.9000244140625</td><td>6765</td></tr>
 </table>
 
 ## AMBER_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>7843.5</td><td>1502</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>7833.0</td><td>1436</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>7840.0</td><td>602</td></tr>
 </table>
 
