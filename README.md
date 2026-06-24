@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-24 15:46:01 IST
+Last updated: 2026-06-24 16:01:22 IST
 
 ## LALPATHLAB_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-06-24 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>18072.0</td><td>822</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>18080.0</td><td>241</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>18084.0</td><td>688</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -70,8 +70,8 @@ Last updated: 2026-06-24 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>2326.199951171875</td><td>2347</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>2322.0</td><td>5066</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>2321.89990234375</td><td>4352</td></tr>
 </table>
 
 ## NATCOPHARM_NS
@@ -102,8 +102,8 @@ Last updated: 2026-06-24 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>428.1499938964844</td><td>20100</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>428.6499938964844</td><td>13277</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>428.1000061035156</td><td>5862</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -118,8 +118,8 @@ Last updated: 2026-06-24 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>275.25</td><td>7316</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>275.3999938964844</td><td>11199</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>275.1000061035156</td><td>11614</td></tr>
 </table>
 
 ## ASTERDM_NS
