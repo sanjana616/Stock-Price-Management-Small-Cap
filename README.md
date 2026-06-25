@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-25 15:55:28 IST
+Last updated: 2026-06-25 16:01:16 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>1689.199951171875</td><td>2590</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>1690.0</td><td>2075</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>1690.0</td><td>1541</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -38,8 +38,8 @@ Last updated: 2026-06-25 15:55:28 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>17961.0</td><td>135</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>17931.0</td><td>208</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>17968.0</td><td>236</td></tr>
 </table>
 
 ## KAYNES_NS
