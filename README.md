@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-25 15:46:00 IST
+Last updated: 2026-06-25 15:55:28 IST
 
 ## LALPATHLAB_NS
 
@@ -54,8 +54,8 @@ Last updated: 2026-06-25 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>1221.300048828125</td><td>843</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>1223.9000244140625</td><td>6230</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>1222.5</td><td>2600</td></tr>
 </table>
 
 ## HSCL_NS
@@ -78,24 +78,24 @@ Last updated: 2026-06-25 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>903.7000122070312</td><td>2168</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>904.9000244140625</td><td>5098</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>903.9000244140625</td><td>2514</td></tr>
 </table>
 
 ## CHOLAHLDNG_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>1653.4000244140625</td><td>537</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>1655.0</td><td>2423</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>1655.0999755859375</td><td>1432</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>1449.699951171875</td><td>741</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>1446.800048828125</td><td>1194</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>1446.699951171875</td><td>571</td></tr>
 </table>
 
 ## POONAWALLA_NS
