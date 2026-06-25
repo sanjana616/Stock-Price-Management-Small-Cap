@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-25 13:01:09 IST
+Last updated: 2026-06-25 13:02:05 IST
 
 ## LALPATHLAB_NS
 
@@ -38,16 +38,16 @@ Last updated: 2026-06-25 13:01:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 13:01:00</td><td>17918.0</td><td>0</td></tr>
   <tr><td>2026-06-25 13:00:00</td><td>17915.0</td><td>0</td></tr>
-  <tr><td>2026-06-25 12:59:00</td><td>17908.0</td><td>25</td></tr>
 </table>
 
 ## KAYNES_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 13:02:00</td><td>3290.0</td><td>0</td></tr>
   <tr><td>2026-06-25 13:01:00</td><td>3292.0</td><td>0</td></tr>
-  <tr><td>2026-06-25 13:00:00</td><td>3292.0</td><td>7488</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -62,8 +62,8 @@ Last updated: 2026-06-25 13:01:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 13:02:00</td><td>680.0999755859375</td><td>0</td></tr>
   <tr><td>2026-06-25 13:01:00</td><td>679.4000244140625</td><td>0</td></tr>
-  <tr><td>2026-06-25 13:00:00</td><td>679.1500244140625</td><td>22615</td></tr>
 </table>
 
 ## GLAND_NS
@@ -86,8 +86,8 @@ Last updated: 2026-06-25 13:01:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-06-25 13:00:00</td><td>1645.0999755859375</td><td>0</td></tr>
-  <tr><td>2026-06-25 12:59:00</td><td>1645.5999755859375</td><td>114</td></tr>
+  <tr><td>2026-06-25 13:02:00</td><td>1643.5999755859375</td><td>0</td></tr>
+  <tr><td>2026-06-25 13:01:00</td><td>1643.9000244140625</td><td>48</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-25 13:01:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 13:02:00</td><td>335.75</td><td>0</td></tr>
   <tr><td>2026-06-25 13:01:00</td><td>335.20001220703125</td><td>0</td></tr>
-  <tr><td>2026-06-25 13:00:00</td><td>335.20001220703125</td><td>7113</td></tr>
 </table>
 
 ## CROMPTON_NS
@@ -126,16 +126,16 @@ Last updated: 2026-06-25 13:01:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 13:02:00</td><td>769.2999877929688</td><td>0</td></tr>
   <tr><td>2026-06-25 13:01:00</td><td>769.7000122070312</td><td>0</td></tr>
-  <tr><td>2026-06-25 13:00:00</td><td>769.9000244140625</td><td>462</td></tr>
 </table>
 
 ## COHANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 13:01:00</td><td>455.54998779296875</td><td>0</td></tr>
   <tr><td>2026-06-25 13:00:00</td><td>455.6499938964844</td><td>0</td></tr>
-  <tr><td>2026-06-25 12:59:00</td><td>455.6499938964844</td><td>803</td></tr>
 </table>
 
 ## TATATECH_NS
@@ -150,15 +150,15 @@ Last updated: 2026-06-25 13:01:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 13:02:00</td><td>630.1500244140625</td><td>0</td></tr>
   <tr><td>2026-06-25 13:01:00</td><td>630.5</td><td>0</td></tr>
-  <tr><td>2026-06-25 13:00:00</td><td>630.25</td><td>5168</td></tr>
 </table>
 
 ## AMBER_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 13:02:00</td><td>7773.0</td><td>0</td></tr>
   <tr><td>2026-06-25 13:01:00</td><td>7769.0</td><td>0</td></tr>
-  <tr><td>2026-06-25 13:00:00</td><td>7769.0</td><td>499</td></tr>
 </table>
 
