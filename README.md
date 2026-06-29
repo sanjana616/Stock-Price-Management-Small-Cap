@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-29 15:46:02 IST
+Last updated: 2026-06-29 16:01:06 IST
 
 ## LALPATHLAB_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-06-29 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>104.3499984741211</td><td>120680</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>104.51000213623047</td><td>93926</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>104.5999984741211</td><td>107904</td></tr>
 </table>
 
 ## PNBHOUSING_NS
@@ -54,8 +54,8 @@ Last updated: 2026-06-29 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>1247.9000244140625</td><td>25788</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>1245.5</td><td>9006</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>1247.0</td><td>7625</td></tr>
 </table>
 
 ## HSCL_NS
@@ -86,16 +86,16 @@ Last updated: 2026-06-29 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>1646.5999755859375</td><td>154</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>1646.9000244140625</td><td>980</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>1644.199951171875</td><td>1066</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>1399.5</td><td>1088</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>1402.5999755859375</td><td>1102</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>1401.0</td><td>3322</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -126,8 +126,8 @@ Last updated: 2026-06-29 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>765.7000122070312</td><td>1895</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>763.0</td><td>4779</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>764.25</td><td>4135</td></tr>
 </table>
 
 ## COHANCE_NS
