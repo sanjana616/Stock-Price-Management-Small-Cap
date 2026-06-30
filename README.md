@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-06-30 16:01:06 IST
+Last updated: 2026-06-30 16:14:11 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-06-30 16:01:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>2164.10009765625</td><td>1073</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>2164.800048828125</td><td>5606</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>2160.0</td><td>3481</td></tr>
 </table>
 
 ## NBCC_NS
@@ -46,8 +46,8 @@ Last updated: 2026-06-30 16:01:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>3121.89990234375</td><td>6801</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>3128.0</td><td>5285</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>3130.0</td><td>4227</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -118,8 +118,8 @@ Last updated: 2026-06-30 16:01:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>274.75</td><td>9067</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>275.0</td><td>11331</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>274.70001220703125</td><td>13331</td></tr>
 </table>
 
 ## ASTERDM_NS
