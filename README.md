@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-02 15:45:56 IST
+Last updated: 2026-07-02 16:01:09 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-07-02 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-02 15:29:00</td><td>2181.300048828125</td><td>828</td></tr>
   <tr><td>2026-07-02 15:28:00</td><td>2175.0</td><td>1480</td></tr>
-  <tr><td>2026-07-02 15:27:00</td><td>2174.10009765625</td><td>2032</td></tr>
 </table>
 
 ## NBCC_NS
@@ -78,8 +78,8 @@ Last updated: 2026-07-02 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-02 15:29:00</td><td>934.5</td><td>1586</td></tr>
   <tr><td>2026-07-02 15:28:00</td><td>934.4000244140625</td><td>1384</td></tr>
-  <tr><td>2026-07-02 15:27:00</td><td>934.5</td><td>1519</td></tr>
 </table>
 
 ## CHOLAHLDNG_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-02 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-02 15:29:00</td><td>662.2999877929688</td><td>13226</td></tr>
   <tr><td>2026-07-02 15:28:00</td><td>664.7000122070312</td><td>31511</td></tr>
-  <tr><td>2026-07-02 15:27:00</td><td>663.0999755859375</td><td>21227</td></tr>
 </table>
 
 ## AMBER_NS
