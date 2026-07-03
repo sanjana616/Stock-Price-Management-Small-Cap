@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-03 15:45:52 IST
+Last updated: 2026-07-03 16:01:08 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-03 15:29:00</td><td>1645.699951171875</td><td>553</td></tr>
   <tr><td>2026-07-03 15:28:00</td><td>1649.699951171875</td><td>4060</td></tr>
-  <tr><td>2026-07-03 15:27:00</td><td>1648.4000244140625</td><td>653</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -30,8 +30,8 @@ Last updated: 2026-07-03 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-03 15:29:00</td><td>1064.4000244140625</td><td>6779</td></tr>
   <tr><td>2026-07-03 15:28:00</td><td>1064.5999755859375</td><td>3972</td></tr>
-  <tr><td>2026-07-03 15:27:00</td><td>1065.199951171875</td><td>5977</td></tr>
 </table>
 
 ## NEULANDLAB_NS
@@ -102,8 +102,8 @@ Last updated: 2026-07-03 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-03 15:29:00</td><td>460.95001220703125</td><td>11785</td></tr>
   <tr><td>2026-07-03 15:28:00</td><td>462.0</td><td>22538</td></tr>
-  <tr><td>2026-07-03 15:27:00</td><td>460.20001220703125</td><td>6804</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-03 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-03 15:29:00</td><td>793.2000122070312</td><td>2656</td></tr>
   <tr><td>2026-07-03 15:28:00</td><td>793.2999877929688</td><td>3137</td></tr>
-  <tr><td>2026-07-03 15:27:00</td><td>793.2999877929688</td><td>2312</td></tr>
 </table>
 
 ## COHANCE_NS
