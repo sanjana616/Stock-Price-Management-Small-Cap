@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-07 16:01:07 IST
+Last updated: 2026-07-07 16:07:08 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-07-07 16:01:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>2159.699951171875</td><td>1116</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>2160.800048828125</td><td>2613</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>2160.10009765625</td><td>1729</td></tr>
 </table>
 
 ## NBCC_NS
@@ -30,8 +30,8 @@ Last updated: 2026-07-07 16:01:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>1109.699951171875</td><td>2404</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>1110.4000244140625</td><td>13879</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>1110.0</td><td>19216</td></tr>
 </table>
 
 ## NEULANDLAB_NS
