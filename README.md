@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-08 15:45:54 IST
+Last updated: 2026-07-08 16:01:10 IST
 
 ## LALPATHLAB_NS
 
@@ -54,8 +54,8 @@ Last updated: 2026-07-08 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>1208.300048828125</td><td>12170</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>1205.0</td><td>4585</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>1212.4000244140625</td><td>1529</td></tr>
 </table>
 
 ## HSCL_NS
@@ -86,8 +86,8 @@ Last updated: 2026-07-08 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>1663.0999755859375</td><td>311</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>1654.0</td><td>1087</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>1654.0</td><td>299</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -102,8 +102,8 @@ Last updated: 2026-07-08 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>457.95001220703125</td><td>2324</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>458.04998779296875</td><td>9526</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>458.3500061035156</td><td>5108</td></tr>
 </table>
 
 ## ANGELONE_NS
