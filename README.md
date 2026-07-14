@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-14 11:31:28 IST
+Last updated: 2026-07-14 11:32:07 IST
 
 ## LALPATHLAB_NS
 
@@ -14,24 +14,24 @@ Last updated: 2026-07-14 11:31:28 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:31:00</td><td>2181.699951171875</td><td>0</td></tr>
   <tr><td>2026-07-14 11:30:00</td><td>2181.300048828125</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:29:00</td><td>2181.199951171875</td><td>60</td></tr>
 </table>
 
 ## NBCC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:32:00</td><td>99.29000091552734</td><td>0</td></tr>
   <tr><td>2026-07-14 11:31:00</td><td>99.33000183105469</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:30:00</td><td>99.33000183105469</td><td>20520</td></tr>
 </table>
 
 ## PNBHOUSING_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:32:00</td><td>1096.0999755859375</td><td>0</td></tr>
   <tr><td>2026-07-14 11:31:00</td><td>1096.9000244140625</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:30:00</td><td>1097.0</td><td>263</td></tr>
 </table>
 
 ## NEULANDLAB_NS
@@ -54,8 +54,8 @@ Last updated: 2026-07-14 11:31:28 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:32:00</td><td>1277.0</td><td>0</td></tr>
   <tr><td>2026-07-14 11:31:00</td><td>1276.4000244140625</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:30:00</td><td>1277.0</td><td>262</td></tr>
 </table>
 
 ## HSCL_NS
@@ -110,16 +110,16 @@ Last updated: 2026-07-14 11:31:28 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:32:00</td><td>337.29998779296875</td><td>0</td></tr>
   <tr><td>2026-07-14 11:31:00</td><td>337.25</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:30:00</td><td>337.25</td><td>2168</td></tr>
 </table>
 
 ## CROMPTON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:32:00</td><td>259.3999938964844</td><td>0</td></tr>
   <tr><td>2026-07-14 11:31:00</td><td>259.45001220703125</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:30:00</td><td>259.3999938964844</td><td>390</td></tr>
 </table>
 
 ## ASTERDM_NS
@@ -134,16 +134,16 @@ Last updated: 2026-07-14 11:31:28 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:32:00</td><td>438.75</td><td>0</td></tr>
   <tr><td>2026-07-14 11:31:00</td><td>439.20001220703125</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:30:00</td><td>439.0</td><td>203</td></tr>
 </table>
 
 ## TATATECH_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:32:00</td><td>761.4000244140625</td><td>0</td></tr>
   <tr><td>2026-07-14 11:31:00</td><td>762.5</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:30:00</td><td>762.75</td><td>4732</td></tr>
 </table>
 
 ## SONACOMS_NS
@@ -158,7 +158,7 @@ Last updated: 2026-07-14 11:31:28 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-14 11:32:00</td><td>7861.0</td><td>0</td></tr>
   <tr><td>2026-07-14 11:31:00</td><td>7865.0</td><td>0</td></tr>
-  <tr><td>2026-07-14 11:30:00</td><td>7854.5</td><td>448</td></tr>
 </table>
 
