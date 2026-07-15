@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-15 15:51:02 IST
+Last updated: 2026-07-15 16:01:21 IST
 
 ## LALPATHLAB_NS
 
@@ -86,24 +86,24 @@ Last updated: 2026-07-15 15:51:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>1598.800048828125</td><td>996</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>1599.199951171875</td><td>158</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>1600.0</td><td>1032</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>1500.5999755859375</td><td>638</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>1501.5</td><td>1364</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>1501.699951171875</td><td>849</td></tr>
 </table>
 
 ## POONAWALLA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>475.54998779296875</td><td>3630</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>476.0</td><td>1801</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>475.6000061035156</td><td>2582</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-15 15:51:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>669.2000122070312</td><td>6873</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>669.4000244140625</td><td>24363</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>670.3499755859375</td><td>2471</td></tr>
 </table>
 
 ## AMBER_NS
