@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-16 15:56:46 IST
+Last updated: 2026-07-16 16:01:18 IST
 
 ## LALPATHLAB_NS
 
@@ -134,8 +134,8 @@ Last updated: 2026-07-16 15:56:46 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-16 15:29:00</td><td>441.75</td><td>2520</td></tr>
   <tr><td>2026-07-16 15:28:00</td><td>444.6000061035156</td><td>9820</td></tr>
-  <tr><td>2026-07-16 15:27:00</td><td>444.0</td><td>3792</td></tr>
 </table>
 
 ## TATATECH_NS
