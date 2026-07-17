@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-17 16:01:07 IST
+Last updated: 2026-07-17 16:15:58 IST
 
 ## LALPATHLAB_NS
 
@@ -150,8 +150,8 @@ Last updated: 2026-07-17 16:01:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-17 15:29:00</td><td>704.8499755859375</td><td>26296</td></tr>
   <tr><td>2026-07-17 15:28:00</td><td>704.9500122070312</td><td>23516</td></tr>
-  <tr><td>2026-07-17 15:27:00</td><td>704.9500122070312</td><td>30669</td></tr>
 </table>
 
 ## AMBER_NS
