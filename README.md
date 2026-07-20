@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-20 15:46:06 IST
+Last updated: 2026-07-20 16:01:15 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>1693.300048828125</td><td>261</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>1691.199951171875</td><td>1927</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>1695.0999755859375</td><td>1516</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -30,16 +30,16 @@ Last updated: 2026-07-20 15:46:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>1098.4000244140625</td><td>1834</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>1098.4000244140625</td><td>375</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>1099.0999755859375</td><td>5352</td></tr>
 </table>
 
 ## NEULANDLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>18949.0</td><td>41</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>19035.0</td><td>238</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>19015.0</td><td>225</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -54,16 +54,16 @@ Last updated: 2026-07-20 15:46:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>1297.0</td><td>1707</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>1299.0</td><td>1746</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>1297.800048828125</td><td>7532</td></tr>
 </table>
 
 ## HSCL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>769.9000244140625</td><td>51323</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>770.0999755859375</td><td>53434</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>771.1500244140625</td><td>45935</td></tr>
 </table>
 
 ## GLAND_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-20 15:46:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>815.1500244140625</td><td>421</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>816.7000122070312</td><td>2232</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>816.4000244140625</td><td>1962</td></tr>
 </table>
 
 ## COHANCE_NS
