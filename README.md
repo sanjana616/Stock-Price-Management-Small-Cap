@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-20 16:01:15 IST
+Last updated: 2026-07-20 16:15:58 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-07-20 16:01:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>2157.60009765625</td><td>820</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>2160.0</td><td>2623</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>2156.60009765625</td><td>1579</td></tr>
 </table>
 
 ## NBCC_NS
@@ -46,8 +46,8 @@ Last updated: 2026-07-20 16:01:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>3328.800048828125</td><td>3400</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>3339.0</td><td>4021</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>3335.60009765625</td><td>19028</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-20 16:01:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>2459.10009765625</td><td>2245</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>2460.0</td><td>2669</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>2460.89990234375</td><td>2715</td></tr>
 </table>
 
 ## NATCOPHARM_NS
@@ -86,8 +86,8 @@ Last updated: 2026-07-20 16:01:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>1553.300048828125</td><td>455</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>1554.699951171875</td><td>1350</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>1555.0</td><td>514</td></tr>
 </table>
 
 ## AFFLE_NS
