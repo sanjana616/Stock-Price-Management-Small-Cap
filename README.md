@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-21 16:01:08 IST
+Last updated: 2026-07-21 16:15:56 IST
 
 ## LALPATHLAB_NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-07-21 16:01:08 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>2482.39990234375</td><td>1385</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>2484.89990234375</td><td>2513</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>2484.800048828125</td><td>770</td></tr>
 </table>
 
 ## NATCOPHARM_NS
