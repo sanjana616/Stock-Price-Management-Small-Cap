@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-21 15:45:55 IST
+Last updated: 2026-07-21 16:01:08 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>1700.0999755859375</td><td>433</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>1707.0</td><td>711</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>1705.699951171875</td><td>596</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -38,8 +38,8 @@ Last updated: 2026-07-21 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>18895.0</td><td>160</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>18883.0</td><td>90</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>18863.0</td><td>147</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -62,8 +62,8 @@ Last updated: 2026-07-21 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>800.9000244140625</td><td>64848</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>799.7999877929688</td><td>44553</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>798.9500122070312</td><td>29652</td></tr>
 </table>
 
 ## GLAND_NS
@@ -94,16 +94,16 @@ Last updated: 2026-07-21 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>1529.4000244140625</td><td>1426</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>1531.0</td><td>2452</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>1530.199951171875</td><td>164</td></tr>
 </table>
 
 ## POONAWALLA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>463.20001220703125</td><td>12542</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>463.5</td><td>4958</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>463.29998779296875</td><td>9567</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -126,16 +126,16 @@ Last updated: 2026-07-21 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>813.4500122070312</td><td>1734</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>818.75</td><td>2641</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>815.0499877929688</td><td>3710</td></tr>
 </table>
 
 ## COHANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>445.6499938964844</td><td>2972</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>446.1000061035156</td><td>8896</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>446.3500061035156</td><td>3737</td></tr>
 </table>
 
 ## TATATECH_NS
