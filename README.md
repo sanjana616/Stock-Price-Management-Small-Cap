@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-22 15:45:52 IST
+Last updated: 2026-07-22 16:01:15 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1699.0</td><td>1147</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1705.5999755859375</td><td>2256</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1710.800048828125</td><td>2694</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -30,16 +30,16 @@ Last updated: 2026-07-22 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1082.300048828125</td><td>4564</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1080.5</td><td>1553</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1080.4000244140625</td><td>36359</td></tr>
 </table>
 
 ## NEULANDLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>18466.0</td><td>27</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>18444.0</td><td>102</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>18454.0</td><td>85</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -54,8 +54,8 @@ Last updated: 2026-07-22 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1250.5</td><td>801</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1251.0999755859375</td><td>9727</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1251.0</td><td>2923</td></tr>
 </table>
 
 ## HSCL_NS
@@ -86,16 +86,16 @@ Last updated: 2026-07-22 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1527.0999755859375</td><td>3278</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1523.800048828125</td><td>2474</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1527.5999755859375</td><td>947</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1499.0</td><td>307</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1496.199951171875</td><td>586</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1495.9000244140625</td><td>335</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -134,8 +134,8 @@ Last updated: 2026-07-22 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>438.1000061035156</td><td>1462</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>438.3500061035156</td><td>1490</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>438.20001220703125</td><td>1432</td></tr>
 </table>
 
 ## TATATECH_NS
