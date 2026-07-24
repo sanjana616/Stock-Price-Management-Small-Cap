@@ -1,21 +1,21 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-24 15:46:02 IST
+Last updated: 2026-07-24 16:01:18 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>1759.199951171875</td><td>1488</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>1769.800048828125</td><td>4387</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>1769.300048828125</td><td>5373</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>2085.39990234375</td><td>1604</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>2075.0</td><td>972</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>2076.0</td><td>765</td></tr>
 </table>
 
 ## NBCC_NS
@@ -94,8 +94,8 @@ Last updated: 2026-07-24 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>1445.300048828125</td><td>1571</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>1457.9000244140625</td><td>834</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>1460.4000244140625</td><td>698</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-24 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>307.95001220703125</td><td>16475</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>307.5</td><td>20147</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>307.54998779296875</td><td>5052</td></tr>
 </table>
 
 ## CROMPTON_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-24 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>717.9500122070312</td><td>10589</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>718.5</td><td>23642</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>717.0</td><td>7863</td></tr>
 </table>
 
 ## AMBER_NS
