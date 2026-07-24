@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-24 16:01:18 IST
+Last updated: 2026-07-24 16:16:00 IST
 
 ## LALPATHLAB_NS
 
@@ -126,8 +126,8 @@ Last updated: 2026-07-24 16:01:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>785.6500244140625</td><td>803</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>789.0</td><td>895</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>788.2999877929688</td><td>3637</td></tr>
 </table>
 
 ## COHANCE_NS
