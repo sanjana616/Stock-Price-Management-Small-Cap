@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-27 15:45:54 IST
+Last updated: 2026-07-27 16:00:14 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>1827.199951171875</td><td>3091</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>1822.5</td><td>1955</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>1819.0999755859375</td><td>2584</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -30,24 +30,24 @@ Last updated: 2026-07-27 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>1078.5</td><td>3125</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>1077.0</td><td>3787</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>1077.4000244140625</td><td>4440</td></tr>
 </table>
 
 ## NEULANDLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>18994.0</td><td>148</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>19000.0</td><td>160</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>18978.0</td><td>98</td></tr>
 </table>
 
 ## KAYNES_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>3181.300048828125</td><td>2948</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>3179.89990234375</td><td>1531</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>3179.39990234375</td><td>2825</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -78,8 +78,8 @@ Last updated: 2026-07-27 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>927.0999755859375</td><td>1622</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>924.3499755859375</td><td>2916</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>924.9000244140625</td><td>2901</td></tr>
 </table>
 
 ## CHOLAHLDNG_NS
@@ -94,8 +94,8 @@ Last updated: 2026-07-27 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>1492.800048828125</td><td>358</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>1494.0</td><td>1074</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>1497.300048828125</td><td>1179</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -110,24 +110,24 @@ Last updated: 2026-07-27 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>304.20001220703125</td><td>37567</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>304.95001220703125</td><td>21535</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>305.0</td><td>40173</td></tr>
 </table>
 
 ## CROMPTON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>249.10000610351562</td><td>15610</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>249.0</td><td>5936</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>248.89999389648438</td><td>20021</td></tr>
 </table>
 
 ## ASTERDM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>801.5</td><td>4813</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>801.0499877929688</td><td>39066</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>800.3499755859375</td><td>5300</td></tr>
 </table>
 
 ## COHANCE_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-27 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>720.9000244140625</td><td>30090</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>719.6500244140625</td><td>20916</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>720.5499877929688</td><td>18097</td></tr>
 </table>
 
 ## AMBER_NS
