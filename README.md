@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-29 15:45:59 IST
+Last updated: 2026-07-29 16:01:15 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-29 15:29:00</td><td>1882.5</td><td>1398</td></tr>
   <tr><td>2026-07-29 15:28:00</td><td>1879.199951171875</td><td>3333</td></tr>
-  <tr><td>2026-07-29 15:27:00</td><td>1880.9000244140625</td><td>2651</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -38,8 +38,8 @@ Last updated: 2026-07-29 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-29 15:29:00</td><td>19697.0</td><td>303</td></tr>
   <tr><td>2026-07-29 15:28:00</td><td>19740.0</td><td>450</td></tr>
-  <tr><td>2026-07-29 15:27:00</td><td>19730.0</td><td>151</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-29 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-29 15:29:00</td><td>2543.699951171875</td><td>2667</td></tr>
   <tr><td>2026-07-29 15:28:00</td><td>2537.5</td><td>3288</td></tr>
-  <tr><td>2026-07-29 15:27:00</td><td>2545.0</td><td>3196</td></tr>
 </table>
 
 ## NATCOPHARM_NS
@@ -134,8 +134,8 @@ Last updated: 2026-07-29 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-29 15:29:00</td><td>431.29998779296875</td><td>3694</td></tr>
   <tr><td>2026-07-29 15:28:00</td><td>430.6499938964844</td><td>3091</td></tr>
-  <tr><td>2026-07-29 15:27:00</td><td>430.6000061035156</td><td>6078</td></tr>
 </table>
 
 ## TATATECH_NS
