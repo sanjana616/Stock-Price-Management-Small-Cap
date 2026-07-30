@@ -1,21 +1,21 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-30 15:45:57 IST
+Last updated: 2026-07-30 16:01:09 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-30 15:29:00</td><td>1878.800048828125</td><td>1105</td></tr>
   <tr><td>2026-07-30 15:28:00</td><td>1875.0999755859375</td><td>716</td></tr>
-  <tr><td>2026-07-30 15:27:00</td><td>1875.699951171875</td><td>1026</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-30 15:29:00</td><td>2028.699951171875</td><td>1408</td></tr>
   <tr><td>2026-07-30 15:28:00</td><td>2030.4000244140625</td><td>1014</td></tr>
-  <tr><td>2026-07-30 15:27:00</td><td>2032.0999755859375</td><td>700</td></tr>
 </table>
 
 ## NBCC_NS
@@ -46,8 +46,8 @@ Last updated: 2026-07-30 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-30 15:29:00</td><td>3621.5</td><td>7682</td></tr>
   <tr><td>2026-07-30 15:28:00</td><td>3628.0</td><td>6500</td></tr>
-  <tr><td>2026-07-30 15:27:00</td><td>3627.0</td><td>6411</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -78,8 +78,8 @@ Last updated: 2026-07-30 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-30 15:29:00</td><td>929.8499755859375</td><td>2235</td></tr>
   <tr><td>2026-07-30 15:28:00</td><td>928.4000244140625</td><td>1819</td></tr>
-  <tr><td>2026-07-30 15:27:00</td><td>928.4000244140625</td><td>1668</td></tr>
 </table>
 
 ## CHOLAHLDNG_NS
@@ -118,8 +118,8 @@ Last updated: 2026-07-30 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-30 15:29:00</td><td>260.29998779296875</td><td>127925</td></tr>
   <tr><td>2026-07-30 15:28:00</td><td>259.95001220703125</td><td>127305</td></tr>
-  <tr><td>2026-07-30 15:27:00</td><td>260.04998779296875</td><td>67816</td></tr>
 </table>
 
 ## ASTERDM_NS
@@ -134,8 +134,8 @@ Last updated: 2026-07-30 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-30 15:29:00</td><td>425.29998779296875</td><td>449</td></tr>
   <tr><td>2026-07-30 15:28:00</td><td>425.3999938964844</td><td>1583</td></tr>
-  <tr><td>2026-07-30 15:27:00</td><td>425.5</td><td>895</td></tr>
 </table>
 
 ## TATATECH_NS
