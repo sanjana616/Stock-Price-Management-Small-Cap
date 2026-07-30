@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-30 16:01:09 IST
+Last updated: 2026-07-30 16:15:58 IST
 
 ## LALPATHLAB_NS
 
@@ -102,8 +102,8 @@ Last updated: 2026-07-30 16:01:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-30 15:29:00</td><td>476.8999938964844</td><td>3240</td></tr>
   <tr><td>2026-07-30 15:28:00</td><td>474.70001220703125</td><td>5307</td></tr>
-  <tr><td>2026-07-30 15:27:00</td><td>473.3500061035156</td><td>6626</td></tr>
 </table>
 
 ## ANGELONE_NS
