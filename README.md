@@ -1,21 +1,21 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-07-31 15:45:57 IST
+Last updated: 2026-07-31 16:01:11 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>1905.199951171875</td><td>1720</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>1891.0</td><td>2319</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>1896.5999755859375</td><td>6648</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>2055.5</td><td>269</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>2060.0</td><td>1338</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>2060.300048828125</td><td>1321</td></tr>
 </table>
 
 ## NBCC_NS
@@ -86,8 +86,8 @@ Last updated: 2026-07-31 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>1534.199951171875</td><td>353</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>1544.9000244140625</td><td>2968</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>1539.9000244140625</td><td>4220</td></tr>
 </table>
 
 ## AFFLE_NS
