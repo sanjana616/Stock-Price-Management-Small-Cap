@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-03 15:58:52 IST
+Last updated: 2026-08-03 16:01:14 IST
 
 ## LALPATHLAB_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-08-03 15:58:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-03 15:29:00</td><td>19675.0</td><td>725</td></tr>
   <tr><td>2026-08-03 15:28:00</td><td>19646.0</td><td>103</td></tr>
-  <tr><td>2026-08-03 15:27:00</td><td>19605.0</td><td>165</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -62,8 +62,8 @@ Last updated: 2026-08-03 15:58:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-03 15:29:00</td><td>750.6500244140625</td><td>12514</td></tr>
   <tr><td>2026-08-03 15:28:00</td><td>751.0</td><td>9608</td></tr>
-  <tr><td>2026-08-03 15:27:00</td><td>751.0999755859375</td><td>7749</td></tr>
 </table>
 
 ## GLAND_NS
@@ -94,8 +94,8 @@ Last updated: 2026-08-03 15:58:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-03 15:29:00</td><td>1663.0</td><td>5265</td></tr>
   <tr><td>2026-08-03 15:28:00</td><td>1667.9000244140625</td><td>2210</td></tr>
-  <tr><td>2026-08-03 15:27:00</td><td>1667.300048828125</td><td>1606</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -142,8 +142,8 @@ Last updated: 2026-08-03 15:58:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-03 15:29:00</td><td>763.7999877929688</td><td>11676</td></tr>
   <tr><td>2026-08-03 15:28:00</td><td>763.4500122070312</td><td>3243</td></tr>
-  <tr><td>2026-08-03 15:27:00</td><td>763.7000122070312</td><td>2227</td></tr>
 </table>
 
 ## SONACOMS_NS
