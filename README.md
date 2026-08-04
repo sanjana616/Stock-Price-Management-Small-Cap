@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-04 15:31:28 IST
+Last updated: 2026-08-04 15:46:06 IST
 
 ## LALPATHLAB_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-08-04 15:31:28 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>3875.0</td><td>3988</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>3880.0</td><td>6593</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>3874.60009765625</td><td>3583</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -110,8 +110,8 @@ Last updated: 2026-08-04 15:31:28 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>300.3500061035156</td><td>10214</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>300.3500061035156</td><td>12321</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>300.1499938964844</td><td>5864</td></tr>
 </table>
 
 ## CROMPTON_NS
