@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-04 15:46:06 IST
+Last updated: 2026-08-04 16:01:15 IST
 
 ## LALPATHLAB_NS
 
@@ -54,24 +54,24 @@ Last updated: 2026-08-04 15:46:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:29:00</td><td>1366.4000244140625</td><td>1976</td></tr>
   <tr><td>2026-08-04 15:28:00</td><td>1375.0</td><td>877</td></tr>
-  <tr><td>2026-08-04 15:27:00</td><td>1374.0</td><td>13626</td></tr>
 </table>
 
 ## HSCL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:29:00</td><td>751.6500244140625</td><td>41605</td></tr>
   <tr><td>2026-08-04 15:28:00</td><td>752.2000122070312</td><td>20323</td></tr>
-  <tr><td>2026-08-04 15:27:00</td><td>750.5</td><td>2432</td></tr>
 </table>
 
 ## GLAND_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:29:00</td><td>2583.10009765625</td><td>2436</td></tr>
   <tr><td>2026-08-04 15:28:00</td><td>2585.199951171875</td><td>670</td></tr>
-  <tr><td>2026-08-04 15:27:00</td><td>2586.39990234375</td><td>958</td></tr>
 </table>
 
 ## NATCOPHARM_NS
@@ -118,8 +118,8 @@ Last updated: 2026-08-04 15:46:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>263.1000061035156</td><td>16912</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>265.29998779296875</td><td>6852</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>265.3500061035156</td><td>6461</td></tr>
 </table>
 
 ## ASTERDM_NS
@@ -134,8 +134,8 @@ Last updated: 2026-08-04 15:46:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:29:00</td><td>424.8999938964844</td><td>1005</td></tr>
   <tr><td>2026-08-04 15:28:00</td><td>425.29998779296875</td><td>951</td></tr>
-  <tr><td>2026-08-04 15:27:00</td><td>425.29998779296875</td><td>911</td></tr>
 </table>
 
 ## TATATECH_NS
