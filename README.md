@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-07 15:46:01 IST
+Last updated: 2026-08-07 16:01:15 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:29:00</td><td>1931.5999755859375</td><td>0</td></tr>
   <tr><td>2026-08-07 15:28:00</td><td>1934.0</td><td>4856</td></tr>
-  <tr><td>2026-08-07 15:27:00</td><td>1931.4000244140625</td><td>785</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -22,8 +22,8 @@ Last updated: 2026-08-07 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>95.33000183105469</td><td>21858</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>95.16999816894531</td><td>15190</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>95.16000366210938</td><td>0</td></tr>
 </table>
 
 ## PNBHOUSING_NS
@@ -38,16 +38,16 @@ Last updated: 2026-08-07 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:29:00</td><td>22855.0</td><td>444</td></tr>
   <tr><td>2026-08-07 15:28:00</td><td>22888.0</td><td>2168</td></tr>
-  <tr><td>2026-08-07 15:27:00</td><td>23192.0</td><td>693</td></tr>
 </table>
 
 ## KAYNES_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>3856.300048828125</td><td>6266</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>3849.0</td><td>7132</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>3846.0</td><td>0</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -86,8 +86,8 @@ Last updated: 2026-08-07 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:29:00</td><td>1628.0</td><td>1628</td></tr>
   <tr><td>2026-08-07 15:28:00</td><td>1627.800048828125</td><td>973</td></tr>
-  <tr><td>2026-08-07 15:27:00</td><td>1628.9000244140625</td><td>966</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -110,16 +110,16 @@ Last updated: 2026-08-07 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>292.0</td><td>53522</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>291.6000061035156</td><td>21097</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>291.04998779296875</td><td>0</td></tr>
 </table>
 
 ## CROMPTON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>249.9499969482422</td><td>44148</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>249.0</td><td>52393</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>249.14999389648438</td><td>0</td></tr>
 </table>
 
 ## ASTERDM_NS
@@ -158,7 +158,7 @@ Last updated: 2026-08-07 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>7435.0</td><td>497</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>7425.0</td><td>460</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>7410.0</td><td>0</td></tr>
 </table>
 
