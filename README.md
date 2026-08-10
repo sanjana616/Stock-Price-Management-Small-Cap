@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-10 15:45:56 IST
+Last updated: 2026-08-10 16:01:06 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:29:00</td><td>1954.0</td><td>356</td></tr>
   <tr><td>2026-08-10 15:28:00</td><td>1946.0</td><td>1222</td></tr>
-  <tr><td>2026-08-10 15:27:00</td><td>1946.300048828125</td><td>152</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -46,24 +46,24 @@ Last updated: 2026-08-10 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:15:00</td><td>3735.10009765625</td><td>3115</td></tr>
   <tr><td>2026-08-10 15:14:00</td><td>3725.0</td><td>4455</td></tr>
-  <tr><td>2026-08-10 15:13:00</td><td>3725.800048828125</td><td>10152</td></tr>
 </table>
 
 ## SAILIFE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:29:00</td><td>1426.199951171875</td><td>3052</td></tr>
   <tr><td>2026-08-10 15:28:00</td><td>1429.9000244140625</td><td>998</td></tr>
-  <tr><td>2026-08-10 15:27:00</td><td>1432.0</td><td>4104</td></tr>
 </table>
 
 ## HSCL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:29:00</td><td>772.0499877929688</td><td>41091</td></tr>
   <tr><td>2026-08-10 15:28:00</td><td>771.0</td><td>24732</td></tr>
-  <tr><td>2026-08-10 15:27:00</td><td>772.0</td><td>12091</td></tr>
 </table>
 
 ## GLAND_NS
@@ -102,8 +102,8 @@ Last updated: 2026-08-10 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:29:00</td><td>476.70001220703125</td><td>824</td></tr>
   <tr><td>2026-08-10 15:28:00</td><td>478.0</td><td>12867</td></tr>
-  <tr><td>2026-08-10 15:27:00</td><td>476.5</td><td>28279</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -134,8 +134,8 @@ Last updated: 2026-08-10 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:29:00</td><td>447.0</td><td>2055</td></tr>
   <tr><td>2026-08-10 15:28:00</td><td>447.0</td><td>1983</td></tr>
-  <tr><td>2026-08-10 15:27:00</td><td>447.6000061035156</td><td>2205</td></tr>
 </table>
 
 ## TATATECH_NS
