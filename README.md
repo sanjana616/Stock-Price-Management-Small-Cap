@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-11 15:45:59 IST
+Last updated: 2026-08-11 15:58:21 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:29:00</td><td>1949.9000244140625</td><td>258</td></tr>
   <tr><td>2026-08-11 15:28:00</td><td>1950.0</td><td>3187</td></tr>
-  <tr><td>2026-08-11 15:27:00</td><td>1950.0</td><td>2575</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -22,8 +22,8 @@ Last updated: 2026-08-11 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>93.80000305175781</td><td>83603</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>93.51000213623047</td><td>23591</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>93.51000213623047</td><td>18711</td></tr>
 </table>
 
 ## PNBHOUSING_NS
@@ -86,8 +86,8 @@ Last updated: 2026-08-11 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:29:00</td><td>1610.5999755859375</td><td>458</td></tr>
   <tr><td>2026-08-11 15:28:00</td><td>1608.800048828125</td><td>842</td></tr>
-  <tr><td>2026-08-11 15:27:00</td><td>1603.5999755859375</td><td>482</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -118,8 +118,8 @@ Last updated: 2026-08-11 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>245.39999389648438</td><td>26647</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>244.75</td><td>14462</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>245.0</td><td>14412</td></tr>
 </table>
 
 ## ASTERDM_NS
@@ -142,8 +142,8 @@ Last updated: 2026-08-11 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:29:00</td><td>865.2000122070312</td><td>1948</td></tr>
   <tr><td>2026-08-11 15:28:00</td><td>865.0999755859375</td><td>6364</td></tr>
-  <tr><td>2026-08-11 15:27:00</td><td>865.0499877929688</td><td>1933</td></tr>
 </table>
 
 ## SONACOMS_NS
@@ -158,7 +158,7 @@ Last updated: 2026-08-11 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>7078.5</td><td>751</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>7066.0</td><td>616</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>7071.0</td><td>871</td></tr>
 </table>
 
