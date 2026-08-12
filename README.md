@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-12 15:59:23 IST
+Last updated: 2026-08-12 16:01:08 IST
 
 ## LALPATHLAB_NS
 
@@ -86,8 +86,8 @@ Last updated: 2026-08-12 15:59:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-12 15:29:00</td><td>1550.699951171875</td><td>2333</td></tr>
   <tr><td>2026-08-12 15:28:00</td><td>1581.800048828125</td><td>4810</td></tr>
-  <tr><td>2026-08-12 15:27:00</td><td>1572.5</td><td>2503</td></tr>
 </table>
 
 ## AFFLE_NS
