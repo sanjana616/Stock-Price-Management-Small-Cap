@@ -1,21 +1,21 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-12 15:46:04 IST
+Last updated: 2026-08-12 15:59:23 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-12 15:29:00</td><td>1953.300048828125</td><td>249</td></tr>
   <tr><td>2026-08-12 15:28:00</td><td>1950.5</td><td>2195</td></tr>
-  <tr><td>2026-08-12 15:27:00</td><td>1954.199951171875</td><td>1098</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-12 15:29:00</td><td>2073.300048828125</td><td>1866</td></tr>
   <tr><td>2026-08-12 15:28:00</td><td>2067.800048828125</td><td>1500</td></tr>
-  <tr><td>2026-08-12 15:27:00</td><td>2065.0</td><td>759</td></tr>
 </table>
 
 ## NBCC_NS
@@ -38,8 +38,8 @@ Last updated: 2026-08-12 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-12 15:29:00</td><td>22510.0</td><td>190</td></tr>
   <tr><td>2026-08-12 15:28:00</td><td>22500.0</td><td>252</td></tr>
-  <tr><td>2026-08-12 15:27:00</td><td>22486.0</td><td>190</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -94,16 +94,16 @@ Last updated: 2026-08-12 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-12 15:29:00</td><td>1672.9000244140625</td><td>149</td></tr>
   <tr><td>2026-08-12 15:28:00</td><td>1669.300048828125</td><td>1214</td></tr>
-  <tr><td>2026-08-12 15:27:00</td><td>1666.199951171875</td><td>1189</td></tr>
 </table>
 
 ## POONAWALLA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-12 15:29:00</td><td>484.1000061035156</td><td>1842</td></tr>
   <tr><td>2026-08-12 15:28:00</td><td>483.45001220703125</td><td>6955</td></tr>
-  <tr><td>2026-08-12 15:27:00</td><td>483.1499938964844</td><td>7099</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -126,8 +126,8 @@ Last updated: 2026-08-12 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-12 15:29:00</td><td>827.9500122070312</td><td>3115</td></tr>
   <tr><td>2026-08-12 15:28:00</td><td>828.0499877929688</td><td>4953</td></tr>
-  <tr><td>2026-08-12 15:27:00</td><td>829.0</td><td>6407</td></tr>
 </table>
 
 ## COHANCE_NS
