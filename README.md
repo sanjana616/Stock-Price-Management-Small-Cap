@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-13 15:45:57 IST
+Last updated: 2026-08-13 16:01:07 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:29:00</td><td>1968.4000244140625</td><td>83</td></tr>
   <tr><td>2026-08-13 15:28:00</td><td>1964.800048828125</td><td>2073</td></tr>
-  <tr><td>2026-08-13 15:27:00</td><td>1967.800048828125</td><td>4187</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -22,8 +22,8 @@ Last updated: 2026-08-13 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>92.06999969482422</td><td>23645</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>92.0</td><td>43347</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>92.04000091552734</td><td>25570</td></tr>
 </table>
 
 ## PNBHOUSING_NS
@@ -38,8 +38,8 @@ Last updated: 2026-08-13 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:29:00</td><td>23207.0</td><td>413</td></tr>
   <tr><td>2026-08-13 15:28:00</td><td>23151.0</td><td>354</td></tr>
-  <tr><td>2026-08-13 15:27:00</td><td>23207.0</td><td>147</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -70,24 +70,24 @@ Last updated: 2026-08-13 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:29:00</td><td>2967.60009765625</td><td>505</td></tr>
   <tr><td>2026-08-13 15:28:00</td><td>2965.0</td><td>1432</td></tr>
-  <tr><td>2026-08-13 15:27:00</td><td>2965.39990234375</td><td>1005</td></tr>
 </table>
 
 ## NATCOPHARM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:29:00</td><td>951.7000122070312</td><td>7175</td></tr>
   <tr><td>2026-08-13 15:28:00</td><td>953.9000244140625</td><td>6373</td></tr>
-  <tr><td>2026-08-13 15:27:00</td><td>953.0</td><td>2192</td></tr>
 </table>
 
 ## CHOLAHLDNG_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:29:00</td><td>1584.699951171875</td><td>1021</td></tr>
   <tr><td>2026-08-13 15:28:00</td><td>1585.199951171875</td><td>570</td></tr>
-  <tr><td>2026-08-13 15:27:00</td><td>1578.5999755859375</td><td>361</td></tr>
 </table>
 
 ## AFFLE_NS
