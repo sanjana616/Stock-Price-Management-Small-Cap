@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-17 15:45:57 IST
+Last updated: 2026-08-17 16:01:14 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-08-17 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:29:00</td><td>2066.10009765625</td><td>658</td></tr>
   <tr><td>2026-08-17 15:28:00</td><td>2063.89990234375</td><td>641</td></tr>
-  <tr><td>2026-08-17 15:27:00</td><td>2060.39990234375</td><td>770</td></tr>
 </table>
 
 ## NBCC_NS
@@ -54,8 +54,8 @@ Last updated: 2026-08-17 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:29:00</td><td>1416.4000244140625</td><td>241</td></tr>
   <tr><td>2026-08-17 15:28:00</td><td>1417.0999755859375</td><td>454</td></tr>
-  <tr><td>2026-08-17 15:27:00</td><td>1419.9000244140625</td><td>1478</td></tr>
 </table>
 
 ## HSCL_NS
@@ -70,8 +70,8 @@ Last updated: 2026-08-17 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:29:00</td><td>2910.199951171875</td><td>308</td></tr>
   <tr><td>2026-08-17 15:28:00</td><td>2902.0</td><td>1237</td></tr>
-  <tr><td>2026-08-17 15:27:00</td><td>2901.300048828125</td><td>853</td></tr>
 </table>
 
 ## NATCOPHARM_NS
@@ -86,8 +86,8 @@ Last updated: 2026-08-17 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:29:00</td><td>1576.4000244140625</td><td>138</td></tr>
   <tr><td>2026-08-17 15:28:00</td><td>1576.5999755859375</td><td>1993</td></tr>
-  <tr><td>2026-08-17 15:27:00</td><td>1577.0</td><td>38</td></tr>
 </table>
 
 ## AFFLE_NS
@@ -102,8 +102,8 @@ Last updated: 2026-08-17 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:29:00</td><td>497.45001220703125</td><td>2702</td></tr>
   <tr><td>2026-08-17 15:28:00</td><td>497.6000061035156</td><td>3897</td></tr>
-  <tr><td>2026-08-17 15:27:00</td><td>497.79998779296875</td><td>3282</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -126,16 +126,16 @@ Last updated: 2026-08-17 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:29:00</td><td>819.75</td><td>2612</td></tr>
   <tr><td>2026-08-17 15:28:00</td><td>818.5999755859375</td><td>2995</td></tr>
-  <tr><td>2026-08-17 15:27:00</td><td>818.4500122070312</td><td>8688</td></tr>
 </table>
 
 ## COHANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:29:00</td><td>444.75</td><td>2037</td></tr>
   <tr><td>2026-08-17 15:28:00</td><td>447.25</td><td>1684</td></tr>
-  <tr><td>2026-08-17 15:27:00</td><td>448.25</td><td>12881</td></tr>
 </table>
 
 ## TATATECH_NS
