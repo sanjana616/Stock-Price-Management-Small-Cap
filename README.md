@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-18 15:46:02 IST
+Last updated: 2026-08-18 16:01:14 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-18 15:29:00</td><td>1901.4000244140625</td><td>109</td></tr>
   <tr><td>2026-08-18 15:28:00</td><td>1900.0</td><td>2458</td></tr>
-  <tr><td>2026-08-18 15:27:00</td><td>1902.0</td><td>1760</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -46,8 +46,8 @@ Last updated: 2026-08-18 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-18 15:15:00</td><td>3644.10009765625</td><td>3654</td></tr>
   <tr><td>2026-08-18 15:14:00</td><td>3646.0</td><td>2428</td></tr>
-  <tr><td>2026-08-18 15:13:00</td><td>3645.0</td><td>698</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -70,8 +70,8 @@ Last updated: 2026-08-18 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-18 15:29:00</td><td>2858.60009765625</td><td>958</td></tr>
   <tr><td>2026-08-18 15:28:00</td><td>2851.0</td><td>2237</td></tr>
-  <tr><td>2026-08-18 15:27:00</td><td>2859.89990234375</td><td>1294</td></tr>
 </table>
 
 ## NATCOPHARM_NS
@@ -86,16 +86,16 @@ Last updated: 2026-08-18 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-18 15:29:00</td><td>1563.300048828125</td><td>189</td></tr>
   <tr><td>2026-08-18 15:28:00</td><td>1567.0</td><td>1091</td></tr>
-  <tr><td>2026-08-18 15:27:00</td><td>1561.9000244140625</td><td>1235</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-18 15:29:00</td><td>1711.300048828125</td><td>155</td></tr>
   <tr><td>2026-08-18 15:28:00</td><td>1710.800048828125</td><td>646</td></tr>
-  <tr><td>2026-08-18 15:27:00</td><td>1710.800048828125</td><td>128</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -142,8 +142,8 @@ Last updated: 2026-08-18 15:46:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-18 15:29:00</td><td>835.7999877929688</td><td>5206</td></tr>
   <tr><td>2026-08-18 15:28:00</td><td>830.9500122070312</td><td>3686</td></tr>
-  <tr><td>2026-08-18 15:27:00</td><td>832.5</td><td>9175</td></tr>
 </table>
 
 ## SONACOMS_NS
