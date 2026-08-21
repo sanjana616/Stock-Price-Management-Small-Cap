@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-21 15:45:56 IST
+Last updated: 2026-08-21 16:01:11 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-08-21 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-21 15:29:00</td><td>2180.800048828125</td><td>907</td></tr>
   <tr><td>2026-08-21 15:28:00</td><td>2173.10009765625</td><td>745</td></tr>
-  <tr><td>2026-08-21 15:27:00</td><td>2173.60009765625</td><td>970</td></tr>
 </table>
 
 ## NBCC_NS
@@ -38,8 +38,8 @@ Last updated: 2026-08-21 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-21 15:29:00</td><td>23301.0</td><td>22</td></tr>
   <tr><td>2026-08-21 15:28:00</td><td>23262.0</td><td>137</td></tr>
-  <tr><td>2026-08-21 15:27:00</td><td>23272.0</td><td>61</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -70,8 +70,8 @@ Last updated: 2026-08-21 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-21 15:29:00</td><td>2819.300048828125</td><td>627</td></tr>
   <tr><td>2026-08-21 15:28:00</td><td>2816.60009765625</td><td>1547</td></tr>
-  <tr><td>2026-08-21 15:27:00</td><td>2814.60009765625</td><td>367</td></tr>
 </table>
 
 ## NATCOPHARM_NS
@@ -94,8 +94,8 @@ Last updated: 2026-08-21 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-21 15:29:00</td><td>1718.699951171875</td><td>836</td></tr>
   <tr><td>2026-08-21 15:28:00</td><td>1724.0</td><td>1808</td></tr>
-  <tr><td>2026-08-21 15:27:00</td><td>1716.800048828125</td><td>751</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -134,8 +134,8 @@ Last updated: 2026-08-21 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-21 15:29:00</td><td>463.0</td><td>7576</td></tr>
   <tr><td>2026-08-21 15:28:00</td><td>461.0</td><td>8372</td></tr>
-  <tr><td>2026-08-21 15:27:00</td><td>461.3500061035156</td><td>4022</td></tr>
 </table>
 
 ## TATATECH_NS
