@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-24 15:46:00 IST
+Last updated: 2026-08-24 16:01:14 IST
 
 ## LALPATHLAB_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-08-24 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-24 15:15:00</td><td>3840.199951171875</td><td>4122</td></tr>
   <tr><td>2026-08-24 15:14:00</td><td>3855.0</td><td>3766</td></tr>
-  <tr><td>2026-08-24 15:13:00</td><td>3858.800048828125</td><td>8380</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -150,15 +150,15 @@ Last updated: 2026-08-24 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-24 15:15:00</td><td>813.5</td><td>13503</td></tr>
   <tr><td>2026-08-24 15:14:00</td><td>812.0499877929688</td><td>8886</td></tr>
-  <tr><td>2026-08-24 15:13:00</td><td>811.9500122070312</td><td>7307</td></tr>
 </table>
 
 ## AMBER_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-24 15:15:00</td><td>7378.0</td><td>6179</td></tr>
   <tr><td>2026-08-24 15:14:00</td><td>7365.0</td><td>416</td></tr>
-  <tr><td>2026-08-24 15:13:00</td><td>7368.5</td><td>945</td></tr>
 </table>
 
