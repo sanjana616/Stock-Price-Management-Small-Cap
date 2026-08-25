@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-25 15:46:03 IST
+Last updated: 2026-08-25 15:52:09 IST
 
 ## LALPATHLAB_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-08-25 15:46:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-25 15:15:00</td><td>3936.0</td><td>3801</td></tr>
   <tr><td>2026-08-25 15:14:00</td><td>3938.300048828125</td><td>2723</td></tr>
-  <tr><td>2026-08-25 15:13:00</td><td>3935.699951171875</td><td>5865</td></tr>
 </table>
 
 ## SAILIFE_NS
