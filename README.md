@@ -1,13 +1,13 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-26 15:45:56 IST
+Last updated: 2026-08-26 15:50:51 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-26 15:29:00</td><td>1937.300048828125</td><td>485</td></tr>
   <tr><td>2026-08-26 15:28:00</td><td>1932.800048828125</td><td>1388</td></tr>
-  <tr><td>2026-08-26 15:27:00</td><td>1940.300048828125</td><td>1482</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
@@ -46,8 +46,8 @@ Last updated: 2026-08-26 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-26 15:15:00</td><td>4032.0</td><td>8374</td></tr>
   <tr><td>2026-08-26 15:14:00</td><td>4050.10009765625</td><td>2693</td></tr>
-  <tr><td>2026-08-26 15:13:00</td><td>4053.89990234375</td><td>6773</td></tr>
 </table>
 
 ## SAILIFE_NS
@@ -94,8 +94,8 @@ Last updated: 2026-08-26 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-26 15:29:00</td><td>1686.800048828125</td><td>87</td></tr>
   <tr><td>2026-08-26 15:28:00</td><td>1683.0999755859375</td><td>1845</td></tr>
-  <tr><td>2026-08-26 15:27:00</td><td>1682.300048828125</td><td>1370</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -134,8 +134,8 @@ Last updated: 2026-08-26 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-26 15:29:00</td><td>462.3500061035156</td><td>3286</td></tr>
   <tr><td>2026-08-26 15:28:00</td><td>462.1000061035156</td><td>2369</td></tr>
-  <tr><td>2026-08-26 15:27:00</td><td>462.3500061035156</td><td>5131</td></tr>
 </table>
 
 ## TATATECH_NS
