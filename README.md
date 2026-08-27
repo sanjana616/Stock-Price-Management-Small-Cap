@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-27 15:45:58 IST
+Last updated: 2026-08-27 16:01:10 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-08-27 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:29:00</td><td>2228.699951171875</td><td>131</td></tr>
   <tr><td>2026-08-27 15:28:00</td><td>2228.0</td><td>1587</td></tr>
-  <tr><td>2026-08-27 15:27:00</td><td>2227.39990234375</td><td>664</td></tr>
 </table>
 
 ## NBCC_NS
@@ -38,8 +38,8 @@ Last updated: 2026-08-27 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:29:00</td><td>23496.0</td><td>26</td></tr>
   <tr><td>2026-08-27 15:28:00</td><td>23423.0</td><td>227</td></tr>
-  <tr><td>2026-08-27 15:27:00</td><td>23499.0</td><td>154</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -62,8 +62,8 @@ Last updated: 2026-08-27 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:29:00</td><td>674.3499755859375</td><td>24120</td></tr>
   <tr><td>2026-08-27 15:28:00</td><td>674.3499755859375</td><td>24381</td></tr>
-  <tr><td>2026-08-27 15:27:00</td><td>673.4500122070312</td><td>8588</td></tr>
 </table>
 
 ## GLAND_NS
@@ -86,16 +86,16 @@ Last updated: 2026-08-27 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:29:00</td><td>1517.199951171875</td><td>205</td></tr>
   <tr><td>2026-08-27 15:28:00</td><td>1514.0</td><td>2225</td></tr>
-  <tr><td>2026-08-27 15:27:00</td><td>1514.5999755859375</td><td>567</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:29:00</td><td>1650.300048828125</td><td>488</td></tr>
   <tr><td>2026-08-27 15:28:00</td><td>1648.0999755859375</td><td>674</td></tr>
-  <tr><td>2026-08-27 15:27:00</td><td>1649.199951171875</td><td>522</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -126,8 +126,8 @@ Last updated: 2026-08-27 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:29:00</td><td>754.7999877929688</td><td>2032</td></tr>
   <tr><td>2026-08-27 15:28:00</td><td>754.0</td><td>10055</td></tr>
-  <tr><td>2026-08-27 15:27:00</td><td>754.0</td><td>18778</td></tr>
 </table>
 
 ## COHANCE_NS
@@ -142,8 +142,8 @@ Last updated: 2026-08-27 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:29:00</td><td>799.3499755859375</td><td>3050</td></tr>
   <tr><td>2026-08-27 15:28:00</td><td>800.0499877929688</td><td>41234</td></tr>
-  <tr><td>2026-08-27 15:27:00</td><td>803.25</td><td>20934</td></tr>
 </table>
 
 ## SONACOMS_NS
