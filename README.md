@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-08-31 15:31:26 IST
+Last updated: 2026-08-31 15:41:37 IST
 
 ## LALPATHLAB_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-08-31 15:31:26 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:29:00</td><td>22986.0</td><td>317</td></tr>
   <tr><td>2026-08-31 15:28:00</td><td>22988.0</td><td>398</td></tr>
-  <tr><td>2026-08-31 15:27:00</td><td>23023.0</td><td>631</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -54,8 +54,8 @@ Last updated: 2026-08-31 15:31:26 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:29:00</td><td>1463.0</td><td>470</td></tr>
   <tr><td>2026-08-31 15:28:00</td><td>1468.300048828125</td><td>9359</td></tr>
-  <tr><td>2026-08-31 15:27:00</td><td>1465.300048828125</td><td>5401</td></tr>
 </table>
 
 ## HSCL_NS
@@ -78,8 +78,8 @@ Last updated: 2026-08-31 15:31:26 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:29:00</td><td>840.0</td><td>2798</td></tr>
   <tr><td>2026-08-31 15:28:00</td><td>838.7999877929688</td><td>12255</td></tr>
-  <tr><td>2026-08-31 15:27:00</td><td>837.5999755859375</td><td>8947</td></tr>
 </table>
 
 ## CHOLAHLDNG_NS
@@ -94,16 +94,16 @@ Last updated: 2026-08-31 15:31:26 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:29:00</td><td>1594.0</td><td>1515</td></tr>
   <tr><td>2026-08-31 15:28:00</td><td>1591.4000244140625</td><td>2098</td></tr>
-  <tr><td>2026-08-31 15:27:00</td><td>1594.0</td><td>1818</td></tr>
 </table>
 
 ## POONAWALLA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:29:00</td><td>463.95001220703125</td><td>2616</td></tr>
   <tr><td>2026-08-31 15:28:00</td><td>463.0</td><td>13519</td></tr>
-  <tr><td>2026-08-31 15:27:00</td><td>465.0</td><td>7296</td></tr>
 </table>
 
 ## ANGELONE_NS
@@ -142,8 +142,8 @@ Last updated: 2026-08-31 15:31:26 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:29:00</td><td>828.5</td><td>2264</td></tr>
   <tr><td>2026-08-31 15:28:00</td><td>827.3499755859375</td><td>6384</td></tr>
-  <tr><td>2026-08-31 15:27:00</td><td>828.7999877929688</td><td>13435</td></tr>
 </table>
 
 ## SONACOMS_NS
