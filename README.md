@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-09-01 15:46:13 IST
+Last updated: 2026-09-01 16:01:14 IST
 
 ## LALPATHLAB_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-09-01 15:46:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:29:00</td><td>2226.10009765625</td><td>764</td></tr>
   <tr><td>2026-09-01 15:28:00</td><td>2227.39990234375</td><td>1650</td></tr>
-  <tr><td>2026-09-01 15:27:00</td><td>2230.0</td><td>34875</td></tr>
 </table>
 
 ## NBCC_NS
@@ -54,24 +54,24 @@ Last updated: 2026-09-01 15:46:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:29:00</td><td>1518.0999755859375</td><td>5179</td></tr>
   <tr><td>2026-09-01 15:28:00</td><td>1514.9000244140625</td><td>4110</td></tr>
-  <tr><td>2026-09-01 15:27:00</td><td>1515.0</td><td>12029</td></tr>
 </table>
 
 ## HSCL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:29:00</td><td>680.8499755859375</td><td>45635</td></tr>
   <tr><td>2026-09-01 15:28:00</td><td>675.9500122070312</td><td>81383</td></tr>
-  <tr><td>2026-09-01 15:27:00</td><td>680.0</td><td>32015</td></tr>
 </table>
 
 ## GLAND_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:29:00</td><td>2875.0</td><td>242</td></tr>
   <tr><td>2026-09-01 15:28:00</td><td>2884.0</td><td>923</td></tr>
-  <tr><td>2026-09-01 15:27:00</td><td>2874.300048828125</td><td>523</td></tr>
 </table>
 
 ## NATCOPHARM_NS
@@ -86,16 +86,16 @@ Last updated: 2026-09-01 15:46:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:29:00</td><td>1475.0</td><td>244</td></tr>
   <tr><td>2026-09-01 15:28:00</td><td>1470.0</td><td>3476</td></tr>
-  <tr><td>2026-09-01 15:27:00</td><td>1473.5</td><td>979</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:29:00</td><td>1565.0999755859375</td><td>172</td></tr>
   <tr><td>2026-09-01 15:28:00</td><td>1560.0999755859375</td><td>718</td></tr>
-  <tr><td>2026-09-01 15:27:00</td><td>1563.4000244140625</td><td>1492</td></tr>
 </table>
 
 ## POONAWALLA_NS
@@ -126,8 +126,8 @@ Last updated: 2026-09-01 15:46:13 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:29:00</td><td>757.7999877929688</td><td>1571</td></tr>
   <tr><td>2026-09-01 15:28:00</td><td>758.3499755859375</td><td>4797</td></tr>
-  <tr><td>2026-09-01 15:27:00</td><td>758.9500122070312</td><td>10049</td></tr>
 </table>
 
 ## COHANCE_NS
