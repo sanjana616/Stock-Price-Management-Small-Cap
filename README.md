@@ -1,21 +1,21 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-09-02 15:45:58 IST
+Last updated: 2026-09-02 16:01:13 IST
 
 ## LALPATHLAB_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:29:00</td><td>1916.0999755859375</td><td>261</td></tr>
   <tr><td>2026-09-02 15:28:00</td><td>1915.0</td><td>546</td></tr>
-  <tr><td>2026-09-02 15:27:00</td><td>1914.9000244140625</td><td>2468</td></tr>
 </table>
 
 ## PIRAMALFIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:29:00</td><td>2186.5</td><td>303</td></tr>
   <tr><td>2026-09-02 15:28:00</td><td>2185.10009765625</td><td>925</td></tr>
-  <tr><td>2026-09-02 15:27:00</td><td>2199.10009765625</td><td>2596</td></tr>
 </table>
 
 ## NBCC_NS
@@ -38,8 +38,8 @@ Last updated: 2026-09-02 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:29:00</td><td>22960.0</td><td>60</td></tr>
   <tr><td>2026-09-02 15:28:00</td><td>22955.0</td><td>192</td></tr>
-  <tr><td>2026-09-02 15:27:00</td><td>22995.0</td><td>157</td></tr>
 </table>
 
 ## KAYNES_NS
@@ -70,32 +70,32 @@ Last updated: 2026-09-02 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:29:00</td><td>2868.39990234375</td><td>707</td></tr>
   <tr><td>2026-09-02 15:28:00</td><td>2870.0</td><td>1062</td></tr>
-  <tr><td>2026-09-02 15:27:00</td><td>2866.0</td><td>1682</td></tr>
 </table>
 
 ## NATCOPHARM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:29:00</td><td>843.25</td><td>652</td></tr>
   <tr><td>2026-09-02 15:28:00</td><td>841.4500122070312</td><td>3614</td></tr>
-  <tr><td>2026-09-02 15:27:00</td><td>843.1500244140625</td><td>2056</td></tr>
 </table>
 
 ## CHOLAHLDNG_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:29:00</td><td>1489.0</td><td>744</td></tr>
   <tr><td>2026-09-02 15:28:00</td><td>1493.9000244140625</td><td>1261</td></tr>
-  <tr><td>2026-09-02 15:27:00</td><td>1492.5999755859375</td><td>602</td></tr>
 </table>
 
 ## AFFLE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:29:00</td><td>1517.9000244140625</td><td>3633</td></tr>
   <tr><td>2026-09-02 15:28:00</td><td>1520.0</td><td>6017</td></tr>
-  <tr><td>2026-09-02 15:27:00</td><td>1519.0999755859375</td><td>699</td></tr>
 </table>
 
 ## POONAWALLA_NS
