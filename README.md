@@ -1,6 +1,6 @@
 # Stock-Price-Management-Small-Cap
 
-Last updated: 2026-10-01 16:01:20 IST
+Last updated: 2026-10-01 22:36:37 IST
 
 ## LALPATHLAB_NS
 
@@ -142,8 +142,8 @@ Last updated: 2026-10-01 16:01:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-01 15:29:00</td><td>698.7999877929688</td><td>3153</td></tr>
   <tr><td>2026-10-01 15:28:00</td><td>699.75</td><td>1480</td></tr>
-  <tr><td>2026-10-01 15:27:00</td><td>700.0</td><td>4387</td></tr>
 </table>
 
 ## SONACOMS_NS
